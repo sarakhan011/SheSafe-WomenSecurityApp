@@ -83,13 +83,14 @@ This rewrites `server/.env`'s port/radius values and regenerates
 `client/src/config/systemConfig.js` so both modules always agree.
 
 ## 4. Screenshots
-<img width="398" height="582" alt="Screenshot 2026-09-16 015354" src="https://github.com/user-attachments/assets/af6aaf88-5c25-4a2a-b0dd-f4343c00616a" />
+<img width="337" height="643" alt="Screenshot 2026-09-16 020242" src="https://github.com/user-attachments/assets/9023bb47-298e-473e-8516-dff7fc1630d2" />
 
-<img width="340" height="683" alt="Screenshot 2026-09-16 015436" src="https://github.com/user-attachments/assets/89b1ea7c-c165-49d5-9b4d-6c233bc16dd3" />
+
+<img width="337" height="643" alt="Screenshot 2026-09-16 015436" src="https://github.com/user-attachments/assets/89b1ea7c-c165-49d5-9b4d-6c233bc16dd3" />
 
 <img width="337" height="643" alt="Screenshot 2026-09-16 015510" src="https://github.com/user-attachments/assets/f5d70c3d-870c-4ea7-94e2-d7281a0e2936" />
 
-<img width="349" height="650" alt="Screenshot 2026-09-16 015801" src="https://github.com/user-attachments/assets/8bffe030-9ed4-4c2a-846a-07ef5b874a4d" />
+
 
 
 

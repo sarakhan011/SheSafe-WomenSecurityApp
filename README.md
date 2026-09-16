@@ -90,6 +90,12 @@ This rewrites `server/.env`'s port/radius values and regenerates
 
 <img width="337" height="643" alt="Screenshot 2026-09-16 015510" src="https://github.com/user-attachments/assets/f5d70c3d-870c-4ea7-94e2-d7281a0e2936" />
 
+<img width="337" height="643" alt="Screenshot 2026-09-16 020333" src="https://github.com/user-attachments/assets/530dd899-a693-4919-8226-f672f1d1c8c2" />
+
+<img width="337" height="643" alt="Screenshot 2026-09-16 020020" src="https://github.com/user-attachments/assets/bc60bdc6-7c5c-4b17-ae54-db0bf2f96648" />
+
+<img width="337" height="643" alt="Screenshot 2026-09-16 015953" src="https://github.com/user-attachments/assets/0ab19278-1ee6-4708-87ca-994bf5203f3a" />
+
 
 
 
